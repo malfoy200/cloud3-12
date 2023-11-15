@@ -1,8 +1,8 @@
 # cloud3-12
-# need to make some changes so here's the changes
-Continuous Deployment - Serverless Container
+#Continuous Deployment - Serverless Container
 
 git clone
+git status
 git add .
 git commit -m "the commit message"
 git push
