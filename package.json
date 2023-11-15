@@ -1,0 +1,23 @@
+{
+  "name": "cloud3-12",
+  "version": "1.0.0",
+  "description": "Continuous Deployment - Serverless Container",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malfoy200/cloud3-12.git"
+  },
+  "keywords": [
+    "serverless",
+    "cd"
+  ],
+  "author": "stef",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malfoy200/cloud3-12/issues"
+  },
+  "homepage": "https://github.com/malfoy200/cloud3-12#readme"
+}
