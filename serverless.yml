@@ -13,6 +13,7 @@ functions:
       - httpApi:
           path: /
           method: get
+  #can add other events https://www.serverless.com/framework/docs/providers/aws/events/alb
 
 plugins:
   - serverless-offline
