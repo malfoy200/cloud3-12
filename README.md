@@ -10,3 +10,4 @@
 - npm init 
 - npm install serverless
 - npm install serverless offline --save-dev
+- https://github.com/serverless/github-action
