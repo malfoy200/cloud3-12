@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/malfoy200/cloud3-12/issues"
   },
-  "homepage": "https://github.com/malfoy200/cloud3-12#readme"
+  "homepage": "https://github.com/malfoy200/cloud3-12#readme",
+  "dependencies": {
+    "serverless": "^3.36.0"
+  },
+  "devDependencies": {
+    "serverless-offline": "^13.2.1"
+  }
 }

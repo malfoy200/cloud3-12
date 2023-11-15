@@ -1,12 +1,18 @@
-service:
-frameworkVersion: 3
+service: cloud3-12
+frameworkVersion: 18.18.2
 
 provider:
-  name: 
+  name: aws
   runtime: nodejs18.x
-  region: us-east-1
-  architecture: x86_64
+  region: ap-southeast-1
 
-functions: 
+functions:
   api:
-    handler: 
+    handler: index.handler
+    events:
+      - httpApi:
+          path: /
+          method: get
+
+plugins:
+  - serverless-offline
