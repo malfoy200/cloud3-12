@@ -1,10 +1,10 @@
 service: cloud3-12
-frameworkVersion: 18.18.2
+frameworkVersion: 3
 
 provider:
   name: aws
   runtime: nodejs18.x
-  region: ap-southeast-1
+  region: us-east-1
 
 functions:
   api:

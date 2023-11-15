@@ -1,5 +1,5 @@
 # cloud3-12
-# Continuous Deployment - Serverless Container
+# Continuous Deployment - Serverless
 
 git clone
 git status
